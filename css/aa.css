@@ -1,0 +1,26 @@
+h1{
+text-align:center;
+background:grey;
+padding:15px;
+border:3px solid black;
+}
+
+table, tr, td{
+border: 3px solid black;
+border-collapse:collapse;
+}
+
+td{
+	padding:10px;
+}
+
+IMG.teste {
+    margin-left: 450px;
+    margin-right: 550px; 
+}
+
+table#t01{
+    margin-left: 550px;
+    margin-right: 550px;
+	}
+	

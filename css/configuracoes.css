@@ -1,0 +1,106 @@
+body{
+background-color:hsla(270, 100%, 70%);
+}
+
+h1{
+text-align:center;
+font-family:arial;
+border:3px solid  black;
+background-color: hsla(285, 100%, 60%);
+font-size:40px;	
+}
+
+#segunda{
+	text-align:right;
+	padding:10px 20px; 
+}
+
+h2{
+	text-align:left;
+	font-family:arial;
+	border:3px solid black;
+	background-color:hsla(285, 100%, 50%);	
+}
+
+#textos{
+}
+
+.primeiro{
+
+text-align:right;
+}
+
+.segundo{
+text-align:center;
+}
+
+.terceiro{
+text-align:left;		
+}
+
+.quarto{
+	text-align:justify;
+	opacity:0.8;
+}
+
+h3{
+    text-align:left;
+	font-family:arial;
+	border:2px solid black;
+	background-color:hsla(285, 100%, 50%);		
+	
+}
+
+#text2{
+	
+}
+
+.pri1{
+ text-align:justify;	
+}
+
+.seg2{
+text-align:justify;	
+}
+
+.qua4{
+text-align:center;
+}
+
+
+#text2{
+}
+
+.p1{
+text-align:justify;	
+}
+#alinhar{
+text-align:justify;	
+}
+
+#ali{
+text-align:left;	
+}
+
+.h6{
+	text-align:left;
+	font-family:arial;
+}
+
+.tt{
+text-align:justify;
+}
+
+
+hr{
+	border:2px solid black;
+}
+
+#info{
+	text-align:right;
+}
+
+#ery{
+text-align:justify;
+}
+
